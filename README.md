@@ -1,17 +1,30 @@
-# bloom_blossom
+# Bloom & Blossom 🌷
 
-A new Flutter project.
+## About the Project
+Bloom & Blossom is a simple flower shop menu application developed using Flutter and Dart for the TMA3084 Software Engineering Laboratory.
 
-## Getting Started
+## Features
+- Welcome section with a flower icon.
+- Flower collection displaying images and descriptions.
+- Flower names and prices.
+- Scrollable layout for browsing flowers.
 
-This project is a starting point for a Flutter application.
+## Flower Collection
+- **Rose Bouquet** — RM 25.00
+- **Sunflower Bouquet** — RM 20.00
+- **Tulip Bouquet** — RM 30.00
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
+- Flutter
+- Dart
+- Visual Studio Code
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## How to Run
+1. Install Flutter.
+2. Clone this repository.
+3. Open the project folder in VS Code.
+4. Run `flutter pub get`.
+5. Run `flutter run`.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Developer
+TMA3084 Software Engineering Laboratory
